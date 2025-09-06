@@ -1,0 +1,14 @@
+# Ignore compiled files
+*.exe
+*.out
+*.o
+
+# Ignore debug and build folders
+/build/
+/bin/
+/debug/
+/dist/
+
+# Ignore system files (Windows & Mac)
+Thumbs.db
+.DS_Store

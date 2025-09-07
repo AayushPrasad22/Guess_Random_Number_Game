@@ -11,8 +11,8 @@ int main() {
     int guess;
     int attempts = 0;
 
-    cout<< "*** Welcome*** Welcome***" <<endl;
-    cout<< " Welcome to the Number Guessing Game!" <<endl;
+    cout<< " *** Welcome  ***  Welcome***  *** Welcome ***" <<endl;
+    cout<< " {   Welcome to the Number Guessing Game!   }" <<endl;
     cout<< " I have selected a number between 1 and 100." <<endl;
     cout<< " Can you guess what it is?" <<endl;
 

@@ -11,4 +11,3 @@ A simple C++ console game where the computer generates a random number, and the 
 ```bash
 g++ NumberGuessGame.cpp -o NumberGuessGame.exe
 ./NumberGuessGame
-
